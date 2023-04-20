@@ -9,4 +9,5 @@
 -Done By:
 
 ```
-## Author: Afolabi John Oluwaseun
+## Amadi Mariana Mathew.
+amadimariana@gmail.com
